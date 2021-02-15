@@ -1,0 +1,20 @@
+
+{ "Thanks" : {
+  "1":"Thank you"
+},
+ "Why" : {
+   "1" : "Watching us"
+ },
+ "Footer" : {
+   "1": "Welcome to DocFlix, the leading source for 100% free documentary films. We curate the best documentary films available online for educational purposes as well as personal enjoyment."
+   
+ },
+
+ "Menu" :{
+   "1":"Home",
+   "2":"Categories",
+   "3":"Contact",
+   "4":"About",
+   "5": "Terms of Services"
+ }
+}
