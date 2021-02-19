@@ -16,5 +16,8 @@
    "3":"Contact",
    "4":"About",
    "5": "Terms of Services"
+ }, 
+ "About" : {
+   "1" : "About"
  }
 }

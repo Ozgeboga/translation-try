@@ -10,11 +10,9 @@ import { Container, Image } from "react-bootstrap";
 
 function Footer() {
   const { t } = useTranslation();
-
-  function handleClick(lang) {
+function handleClick(lang) {
     i18next.changeLanguage(lang);
   }
-
   return (
     <>
       <div className="mt-5 pt-5 pb-5 footer ">
